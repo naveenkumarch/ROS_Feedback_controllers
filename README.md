@@ -8,25 +8,25 @@ Individual classes was developed and they are tested in Gazebo simulator.
 ### Input Membership function
 ![Classification Report](https://github.com/naveenkumarch/ROS_Feedback_controllers/blob/main/Pics/REF_MF.PNG?raw=true)
 ### Rule Base
-(https://github.com/naveenkumarch/ROS_Feedback_controllers/blob/main/Pics/REF_RuleBase.PNG)
+![Classification Report](https://github.com/naveenkumarch/ROS_Feedback_controllers/blob/main/Pics/REF_RuleBase.PNG?raw=true)
 ### Output Membership Function
-(https://github.com/naveenkumarch/ROS_Feedback_controllers/blob/main/Pics/REF_OMF.PNG)
+![Classification Report](https://github.com/naveenkumarch/ROS_Feedback_controllers/blob/main/Pics/REF_OMF.PNG?raw=true)
 ### Control surface 
-(https://github.com/naveenkumarch/ROS_Feedback_controllers/blob/main/Pics/CS_REF_Str.PNG)
-(https://github.com/naveenkumarch/ROS_Feedback_controllers/blob/main/Pics/REF_FS_CS.PNG)
+![Classification Report](https://github.com/naveenkumarch/ROS_Feedback_controllers/blob/main/Pics/CS_REF_Str.PNG?raw=true)
+![Classification Report](https://github.com/naveenkumarch/ROS_Feedback_controllers/blob/main/Pics/REF_FS_CS.PNG?raw=true)
 
 ## Fuzzy Obstacle avoidance function
 ### Input Membership function 
-(https://github.com/naveenkumarch/ROS_Feedback_controllers/blob/main/Pics/OBS_AV_IMF.PNG)
+![Classification Report](https://github.com/naveenkumarch/ROS_Feedback_controllers/blob/main/Pics/OBS_AV_IMF.PNG?raw=true)
 ### Rule Base
-(https://github.com/naveenkumarch/ROS_Feedback_controllers/blob/main/Pics/OBS_AV_Rule_base.PNG)
+![Classification Report](https://github.com/naveenkumarch/ROS_Feedback_controllers/blob/main/Pics/OBS_AV_Rule_base.PNG?raw=true)
 ### Output Membership Function
-(https://github.com/naveenkumarch/ROS_Feedback_controllers/blob/main/Pics/OBS_AV_OMF.PNG)
+![Classification Report](https://github.com/naveenkumarch/ROS_Feedback_controllers/blob/main/Pics/OBS_AV_OMF.PNG?raw=true)
 ### Control Surface
-(https://github.com/naveenkumarch/ROS_Feedback_controllers/blob/main/Pics/OBS_AV_FS_CS.PNG)
-(https://github.com/naveenkumarch/ROS_Feedback_controllers/blob/main/Pics/OBS_AV_ST_CS.PNG)
+![Classification Report](https://github.com/naveenkumarch/ROS_Feedback_controllers/blob/main/Pics/OBS_AV_FS_CS.PNG?raw=true)
+![Classification Report](https://github.com/naveenkumarch/ROS_Feedback_controllers/blob/main/Pics/OBS_AV_ST_CS.PNG?raw=true)
 
 ## Fuzzy Coordination
 Individual behaviours was merged using fuzzy coordination.
 ### Bahaviour selection Logic
-(https://github.com/naveenkumarch/ROS_Feedback_controllers/blob/main/Pics/Fuzzy_Coordination.PNG)
+![Classification Report](https://github.com/naveenkumarch/ROS_Feedback_controllers/blob/main/Pics/Fuzzy_Coordination.PNG?raw=true)
