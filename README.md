@@ -6,7 +6,7 @@ ROS along with python was used for controller development.
 Individual classes was developed and they are tested in Gazebo simulator.
 ## Fuzzy Right Edge Following controller
 ### Input Membership function
-(https://github.com/naveenkumarch/ROS_Feedback_controllers/blob/main/Pics/REF_MF.PNG)
+![Classification Report](https://github.com/naveenkumarch/ROS_Feedback_controllers/blob/main/Pics/REF_MF.PNG?raw=true)
 ### Rule Base
 (https://github.com/naveenkumarch/ROS_Feedback_controllers/blob/main/Pics/REF_RuleBase.PNG)
 ### Output Membership Function
